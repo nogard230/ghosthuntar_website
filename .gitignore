@@ -1,0 +1,10 @@
+# webapp #
+#############
+assets/*
+protected/runtime/*
+protected/config/mode_production.php
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
