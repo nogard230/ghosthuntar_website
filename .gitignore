@@ -1,7 +1,5 @@
-# webapp #
-#############
-assets/*
-protected/runtime/*
+# Production configuration #
+############################
 protected/config/mode_production.php
 
 # OS generated files #
